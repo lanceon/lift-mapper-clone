@@ -1,3 +1,6 @@
 target/
-project/target/
-project/project/
+project/
+logs/*.log
+*.log
+.idea/
+.idea_modules/

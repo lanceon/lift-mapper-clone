@@ -1,7 +1,6 @@
-lift-minimal-blank-project
-==========================
+Cloning of mapper instances
+===========================
 
-Based on http://cookbook.liftweb.net/#LiftFromScratch
+Lift 2.5, Scala 2.10.2, Mapper ORM, H2 in-memory database
 
-Lift 2.5, Scala 2.10.0
-
+Based on https://groups.google.com/d/msg/liftweb/i2DODLi2b3A/Er4I__uGjBMJ by Andrew Mullins
